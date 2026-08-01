@@ -20,8 +20,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=17&duration=3200&pause=900&center=true&vCenter=true&width=640&height=34&color=FFB454&background=00000000&lines=ICPC+World+Finals+2026+%C2%B7+Carnegie+Mellon;Shipping+production+systems+%40+Vidi+%C2%B7+London;Olympiad-level+LLM+reasoning+data+%40+Mercor;I+build%2C+I+compete%2C+I+ship.">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=17&duration=3200&pause=900&center=true&vCenter=true&width=640&height=34&color=C2590C&background=00000000&lines=ICPC+World+Finals+2026+%C2%B7+Carnegie+Mellon;Shipping+production+systems+%40+Vidi+%C2%B7+London;Olympiad-level+LLM+reasoning+data+%40+Mercor;I+build%2C+I+compete%2C+I+ship." alt="ICPC World Finals 2026 · Carnegie Mellon · I build, I compete, I ship.">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=17&duration=3200&pause=900&center=true&vCenter=true&width=640&height=34&color=FFB454&background=00000000&lines=ICPC+World+Finals+2026+%C2%B7+Carnegie+Mellon;Shipping+production+systems+%40+Vidi+%C2%B7+London;Olympiad-level+LLM+reasoning+data+%40+Mercor">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=17&duration=3200&pause=900&center=true&vCenter=true&width=640&height=34&color=C2590C&background=00000000&lines=ICPC+World+Finals+2026+%C2%B7+Carnegie+Mellon;Shipping+production+systems+%40+Vidi+%C2%B7+London;Olympiad-level+LLM+reasoning+data+%40+Mercor" alt="ICPC World Finals 2026 · Carnegie Mellon">
 </picture>
 
 <br>
