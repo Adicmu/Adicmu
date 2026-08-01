@@ -51,7 +51,6 @@ struct AdityaVivek {
     };
 
     static constexpr const char* compete = "ICPC World Finals 2026";
-    static constexpr const char* motto   = "I build, I compete, I ship.";
 };  // no bugs, only undocumented features
 ```
 
